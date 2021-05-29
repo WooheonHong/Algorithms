@@ -1,5 +1,10 @@
 # Algorithms
-Study for Coding Test&amp;Interview 
+Study for Coding Test & Interview 
+
+## Python Algorithm Interview 
+
+파이썬 알고리즘 인터뷰 책을 정리했습니다. 
+설명을 추가하기 위해 쥬피터 노트북으로 작성했습니다. 
 
 # 준비 
 
