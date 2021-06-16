@@ -25,3 +25,13 @@ VSCode Gist extension을 설치하면 다음을 수행할 수 있다.
 
 2. Gist:Insert Text From Gist File 을 사용하면 코드 스니핏을 가져올 수 있다. 
 
+
+# 시간 복잡도 
+
+https://t1.daumcdn.net/cfile/tistory/2302AD48565E816409?download
+
+https://t1.daumcdn.net/cfile/tistory/256CB448565E81621B?download
+
+https://t1.daumcdn.net/cfile/tistory/22518148565E816636?download
+
+https://t1.daumcdn.net/cfile/tistory/277B0F48565E81680F?download
