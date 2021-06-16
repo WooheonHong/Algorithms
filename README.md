@@ -30,8 +30,8 @@ VSCode Gist extension을 설치하면 다음을 수행할 수 있다.
 
 ![image](https://t1.daumcdn.net/cfile/tistory/2302AD48565E816409?download)
 
-![image]https://t1.daumcdn.net/cfile/tistory/256CB448565E81621B?download
+![image](https://t1.daumcdn.net/cfile/tistory/256CB448565E81621B?download)
 
-![image]https://t1.daumcdn.net/cfile/tistory/22518148565E816636?download
+![image](https://t1.daumcdn.net/cfile/tistory/22518148565E816636?download
 
-![image]https://t1.daumcdn.net/cfile/tistory/277B0F48565E81680F?download
+![image](https://t1.daumcdn.net/cfile/tistory/277B0F48565E81680F?download)
