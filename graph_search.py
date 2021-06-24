@@ -45,8 +45,3 @@ def bfs_deque(root_node):
             queue += graph_list[v] - set(visited)
 
     return visited
-
-
-print(dfs_recursive(root_node))
-print(dfs_iterative(root_node))
-print(bfs_deque(root_node))
