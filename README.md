@@ -7,6 +7,9 @@ Study for Coding Test & Interview
 
 # 준비 
 
+1초에 1억번이라고 가정하면 
+주어진 데이터의 nlogn, n^2, n^3등을 해보면 필요한 시간복잡도가 대강 나온다. 
+
 ## VSCode
 
 다음 Extension을 설치한다.
