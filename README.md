@@ -33,6 +33,16 @@ VSCode Gist extension을 설치하면 다음을 수행할 수 있다.
 
 2. Gist:Insert Text From Gist File 을 사용하면 코드 스니핏을 가져올 수 있다. 
 
+## Python
+
+
+1.
+```
+graph = collections.defaultdict(list)
+for x in list(graph):
+```
+키가 없는 딕셔너리에 대해서 조회시 Null오류가 발생하지 않도록 `defaultdict`로 처리했다. 하지만 오류를 내지 않기 위해 항상 디폴트를 생성하므로 반복문에서 graph 값이 변경된다는 오류가 발생한다. 따라서 `list()`로 묶어서 처리해야 한다. 
+
 
 # 시간 복잡도 
 
