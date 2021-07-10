@@ -1,14 +1,22 @@
-class Solution:
-    def findItinerary(self, tickets: List[List[str]]) -> List[str]:
-        graph = collections.defaultdict(list)
-        # 그래프 순서대로 구성
-        for a, b in sorted(tickets, reverse=True):
-            graph[a].append(b)
+import heapq
 
-        route, stack = [], ["JFK"]
-        while stack:
-            while graph[stack[-1]]:
-                stack.append(graph[stack[-1]].pop(0))
-            route.append(stack.pop())
 
-        return route[::-1]
+def dijstra(graph, start):
+    distances = {node: float("inf") for node in graph}
+    distances[start] = 0
+    queue = []
+    heapq.heappush(queue, [distances[start], start])
+
+    while queue:
+        current_distance, current_destination = heapq.heappop(queue)
+
+        if distances[current_destination] < current_distance:
+            continue
+
+        for new_destination, new_distance in graph[current_destination].items():
+            distance = current_distance + new_distance
+            if distance < distances[new_destination]:
+                distances[new_destination] = distance
+                heapq.heappush(queue, [distance, new_destination])
+
+    return distances
