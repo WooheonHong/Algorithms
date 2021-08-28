@@ -1,0 +1,41 @@
+# 실행파일 제외 
+*.dll
+*.exe
+*.o
+*.so
+*.com
+*.class
+
+# log파일 제외 
+*.log
+logs/
+
+# 문서파일 제외 
+*.xlsx
+*.xls
+*.pdf
+*.docs
+*.ppt
+*.pptx
+*.csv 
+
+# 패키지파일 제외 
+*.dmg
+*.iso
+*.tar
+*.zip
+*.gz
+
+# OS용 시스템 파일 제외 
+.Trashes
+.Thumbs.db
+.ehthumbs.db
+
+# VSCode 설정 파일 제외 
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+test.py 
