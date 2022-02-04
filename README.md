@@ -36,7 +36,6 @@ VSCode Gist extension을 설치하면 다음을 수행할 수 있다.
 ## Python
 
 
-1.
 ```
 graph = collections.defaultdict(list)
 for x in list(graph):
