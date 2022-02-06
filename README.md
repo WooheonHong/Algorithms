@@ -1,10 +1,6 @@
 # Algorithms
 Study for Coding Test & Interview 
 
-## Python Algorithm Interview 
-
-파이썬 알고리즘 인터뷰 책을 정리했습니다. 
-
 # 참고사항 
 
 - 1초에 1억번이라고 가정하면 주어진 데이터의 nlogn, n^2, n^3등을 해보면 필요한 시간복잡도가 대강 나온다. 
