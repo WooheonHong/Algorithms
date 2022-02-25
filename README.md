@@ -145,3 +145,7 @@ for x in list(graph):
 ![image](https://t1.daumcdn.net/cfile/tistory/22518148565E816636?download)
 
 ![image](https://t1.daumcdn.net/cfile/tistory/277B0F48565E81680F?download)
+
+# 다시 풀 문제 
+
+1. [reorder log files](https://leetcode.com/problems/reorder-data-in-log-files/)
