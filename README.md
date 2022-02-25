@@ -149,3 +149,5 @@ for x in list(graph):
 # 다시 풀 문제 
 
 1. [reorder log files](https://leetcode.com/problems/reorder-data-in-log-files/)
+2. [쇠막대기](https://www.acmicpc.net/problem/10799)
+3. [괄호의값](https://www.acmicpc.net/problem/2504)
