@@ -156,3 +156,4 @@ for x in list(graph):
 3. [괄호의값](https://www.acmicpc.net/problem/2504)
 4. (나중에) [logest palindrome substring](https://leetcode.com/problems/longest-palindromic-substring/) 
 5. [remove duplicate letters](https://leetcode.com/problems/remove-duplicate-letters/)
+6. [daily temperatures](https://leetcode.com/problems/daily-temperatures/)
