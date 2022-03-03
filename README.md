@@ -3,6 +3,13 @@ Algorithms
 
 Study for Coding Test & Interview 
 
+# 테스트 진행 팁 
+
+1. 예시보면서 문제 빠르게 이해
+2. 조건 확실히 이해 
+3. 테스트 케이스 진행(여기서 한번 제출) 
+4. 엣지 케이스 진행 
+
 # 참고사항 
 
 - 1초에 1억번이라고 가정하면 주어진 데이터의 nlogn, n^2, n^3등을 해보면 필요한 시간복잡도가 대강 나온다. 
@@ -44,6 +51,9 @@ VSCode Gist extension을 설치하면 다음을 수행할 수 있다.
 
 ## Tip
 
+- 정렬 관련 함수들의 정렬순서
+    - `logs.sort(key=lambda x: (x.split()[1:], x.split()[0]))` :  logs의 각 성분들을 split해서 리스트로 쪼갠뒤 x[1:], x[0]으로 정렬 
+    - `heapq.heappush(heap, (abs(i), i, i))` i를 heap에 삽입하는데 절댓값이 작은 것 부터 우선순위를 주고 절댓값이 같으면 값이 작은걸로 
 - list 합치기 
 ```
 a = [1]
@@ -138,3 +148,13 @@ for x in list(graph):
 ![image](https://t1.daumcdn.net/cfile/tistory/22518148565E816636?download)
 
 ![image](https://t1.daumcdn.net/cfile/tistory/277B0F48565E81680F?download)
+
+# 다시 풀 문제 
+
+1. [reorder log files](https://leetcode.com/problems/reorder-data-in-log-files/)
+2. [쇠막대기](https://www.acmicpc.net/problem/10799)
+3. [괄호의값](https://www.acmicpc.net/problem/2504)
+4. (나중에) [logest palindrome substring](https://leetcode.com/problems/longest-palindromic-substring/) 
+5. [remove duplicate letters](https://leetcode.com/problems/remove-duplicate-letters/)
+6. [daily temperatures](https://leetcode.com/problems/daily-temperatures/)
+7. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) 
