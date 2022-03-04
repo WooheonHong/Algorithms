@@ -159,3 +159,5 @@ for x in list(graph):
 5. [remove duplicate letters](https://leetcode.com/problems/remove-duplicate-letters/)
 6. [daily temperatures](https://leetcode.com/problems/daily-temperatures/)
 7. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) 
+8. [Course Schedule](https://leetcode.com/problems/course-schedule/)
+9. [섬의 개수] (https://leetcode.com/problems/number-of-islands/)
