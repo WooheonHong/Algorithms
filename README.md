@@ -51,6 +51,7 @@ VSCode Gist extension을 설치하면 다음을 수행할 수 있다.
 
 ## Tip
 
+- for루프와 i, -i 를 사용하는 것 보다 while left<right ; left += 1 , right -= 1 을 사용하는 것이 편하다. 
 - 정렬 관련 함수들의 정렬순서
     - `logs.sort(key=lambda x: (x.split()[1:], x.split()[0]))` :  logs의 각 성분들을 split해서 리스트로 쪼갠뒤 x[1:], x[0]으로 정렬 
     - `heapq.heappush(heap, (abs(i), i, i))` i를 heap에 삽입하는데 절댓값이 작은 것 부터 우선순위를 주고 절댓값이 같으면 값이 작은걸로 
