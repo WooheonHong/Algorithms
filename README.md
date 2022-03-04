@@ -161,3 +161,4 @@ for x in list(graph):
 7. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) 
 8. [Course Schedule](https://leetcode.com/problems/course-schedule/)
 9. [섬의 개수] (https://leetcode.com/problems/number-of-islands/)
+10. [이진 트리의 최대 깊이] (https://leetcode.com/problems/maximum-depth-of-binary-tree/)
