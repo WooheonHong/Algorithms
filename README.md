@@ -164,3 +164,4 @@ for x in list(graph):
 10. [이진 트리의 최대 깊이](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 11. [이진 트리의 직경](https://leetcode.com/problems/diameter-of-binary-tree)
 12. [균형 이진 트리](https://leetcode.com/problems/balanced-binary-tree/)
+13. [최소 높이 트리](https://leetcode.com/problems/minimum-height-trees/)
