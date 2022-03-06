@@ -165,3 +165,4 @@ for x in list(graph):
 11. [이진 트리의 직경](https://leetcode.com/problems/diameter-of-binary-tree)
 12. [균형 이진 트리](https://leetcode.com/problems/balanced-binary-tree/)
 13. [최소 높이 트리](https://leetcode.com/problems/minimum-height-trees/)
+14. [두 수의 합](https://leetcode.com/problems/two-sum/)
