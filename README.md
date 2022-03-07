@@ -169,3 +169,5 @@ for x in list(graph):
 15. [주식을 사고팔기 가장 좋은 시점1](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/), [주식을 사고팔기 가장 좋은 시점2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/), [best time to buy and sell stock with cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 16. [키에 따른 대기열 재구성](https://leetcode.com/problems/queue-reconstruction-by-height/)
 17. [태스크 스케줄러](https://leetcode.com/problems/task-scheduler/)
+18. [최대 서브 배열](https://leetcode.com/problems/maximum-subarray)
+19. 
