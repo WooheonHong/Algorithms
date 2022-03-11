@@ -48,7 +48,7 @@ VSCode Gist extension을 설치하면 다음을 수행할 수 있다.
     - global 변수를 재할당하면 로컬 변수로 선언됨. 재할당 하지 않고 변경하면 global변수도 변경됨. 
     - 불변객체인 경우 중첩 함수 내에서 변수의 값을 조작할 수 없으므로 클래스 변수를 활용할 수 있다. 
 - 복잡한 list는 `copy.deepcopy()`로 처리해야 함. 
-
+- fun1(x) or fun2(x)만약 fun1이 True면 오른쪽은 연산을 하지 않음. 반대로 fun1(x) and fun2(x)만약 fun1이 False면 오른쪽은 연산을 하지 않음.
 
 ## Tip
 
@@ -181,3 +181,4 @@ for x in list(graph):
 21. [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)
 22. [edit distance 1](https://leetcode.com/problems/delete-operation-for-two-strings/)
 23. [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
+24. [Path Sum](https://leetcode.com/problems/path-sum/), [Path Sum2] (https://leetcode.com/problems/path-sum-ii/)
