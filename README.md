@@ -181,4 +181,4 @@ for x in list(graph):
 21. [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)
 22. [edit distance 1](https://leetcode.com/problems/delete-operation-for-two-strings/)
 23. [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
-24. [Path Sum](https://leetcode.com/problems/path-sum/), [Path Sum2] (https://leetcode.com/problems/path-sum-ii/)
+24. [Path Sum](https://leetcode.com/problems/path-sum/), [Path Sum2] (https://leetcode.com/problems/path-sum-ii/), [Path Sum3](https://leetcode.com/problems/path-sum-iii/)
