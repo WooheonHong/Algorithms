@@ -52,6 +52,7 @@ VSCode Gist extension을 설치하면 다음을 수행할 수 있다.
 
 ## Tip
 
+- 정렬을 계속 하는것보다 heap를 사용해서 pop, push를 하는게 빠르다 
 - leaf noe 판별 : `if cur_node.left is None and cur_node.right is None`
 - 뭔가 규칙이 있으면 그리디라고 생각하고 중복이 있어서 경우를 나눠야하면 DP 
 - 중복 상태의 개수에 따라 dp 배열의 차원을 나눠야한다. 
