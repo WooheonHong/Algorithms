@@ -178,3 +178,5 @@ for x in list(graph):
 19. [동전 0](https://www.acmicpc.net/problem/11047) [동전 1](https://leetcode.com/problems/coin-change/submissions/) [동전 2](https://leetcode.com/problems/coin-change-2/)
 20. [주유소](https://leetcode.com/problems/gas-station/)
 21. [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/)
+22. [edit distance 1](https://leetcode.com/problems/delete-operation-for-two-strings/)
+23. [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/)
