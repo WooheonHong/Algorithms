@@ -130,6 +130,8 @@ def foo(a, b: Optional[Sequence] = None):
     - collections.Counter클래스는 딕셔너리를 한번 더 wrapping 한 것임.
     - `b.most_common(k)`으로 상위 빈도 k개 탐색 
     - 존재하지 않는 키의 경우 0을 출력한다. 
+    - elements() 메소드는 모든 성분을 리스트로 반환 
+    - 중복되는 성분을 가지는 두 리스트의 중복을 포함하는 교집합을 구하고 싶으면 counter1 & counter2 차집합은 counter1 - counter2
 - `collections.deque()` list의 pop(0)이 O(n)이지만 데크의 popleft는 O(1)이다. 
 - 리스트에서 존재하지 않는 인덱스 조회 : `IndexError`. 딕셔너리에서 존재하지 않는 키 조회 : `KeyError`. 이런 경우에는 예외처리로 별도 추가 작업 가능 
 - 딕셔너리와 set둘 다 {}를 사용하지만 key의 존재 유무로 다른 자료형으로 선언됨
