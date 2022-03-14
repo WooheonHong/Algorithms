@@ -19,7 +19,6 @@ Study for Coding Test & Interview
 # 준비 
 
 
-
 ## VSCode
 
 다음 Extension을 설치한다.
@@ -144,7 +143,13 @@ graph = collections.defaultdict(list)
 for x in list(graph):
 ```
 
+# 문제 
 
+## 삼성 
+https://www.acmicpc.net/workbook/view/1152
+
+## 백준 
+https://github.com/WooheonHong/baekjoon
 
 # 시간 복잡도 
 
