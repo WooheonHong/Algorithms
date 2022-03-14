@@ -52,6 +52,7 @@ VSCode Gist extension을 설치하면 다음을 수행할 수 있다.
 
 ## Tip
 
+- 반복적 점진적 개발(incremental and iterative)를 실현하자. 특히 구현문제는 조금 구현하고 테스트 해보자. 
 - 정렬을 계속 하는것보다 heap를 사용해서 pop, push를 하는게 빠르다 
 - leaf noe 판별 : `if cur_node.left is None and cur_node.right is None`
 - 뭔가 규칙이 있으면 그리디라고 생각하고 중복이 있어서 경우를 나눠야하면 DP 
