@@ -57,6 +57,7 @@ VSCode Gist extension을 설치하면 다음을 수행할 수 있다.
     - 불변객체인 경우 중첩 함수 내에서 변수의 값을 조작할 수 없으므로 클래스 변수를 활용할 수 있다. 
 - 복잡한 list는 `copy.deepcopy()`로 처리해야 함. 
 - fun1(x) or fun2(x)만약 fun1이 True면 오른쪽은 연산을 하지 않음. 반대로 fun1(x) and fun2(x)만약 fun1이 False면 오른쪽은 연산을 하지 않음.
+- `max([[1, 4], [2, 0]]) = [2, 0]` 이다. 
 
 ## Tip
 
