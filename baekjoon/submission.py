@@ -1,24 +1,14 @@
 import sys
-from unittest import result
+from collections import deque
 
 
-data = sys.stdin.readline().rstrip()
+def sol_11725():
+    N = int(sys.stdin.readline())
+    tree = deque()
 
-cur = 0
-stack = []
-result = 0
-
-for i in range(len(data)):
-    if data[i] == "(":
-        stack.append("(")
-
-    else:
-        if data[i - 1] == "(":
-            stack.pop()
-            result += len(stack)
-        else:
-            stack.pop()
-            result += 1
+    for i in range(N):
+        n, m = map(int, sys.stdin.readline())
 
 
-print(result)
+if __name__ == "__main__":
+    sol_11725()
