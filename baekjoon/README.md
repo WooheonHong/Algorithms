@@ -16,3 +16,5 @@ inputs = []
             break
         inputs.append(x)
 ```
+4. N, M = map(int, input().split())
+5. arr = [list(input()) for _ in range(N)]
